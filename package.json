@@ -1,0 +1,13 @@
+{
+  "name": "JavaScript_helloworld",
+  "version": "1.0.0",
+  "description": "Testing JavaScript",
+  "author": "Erwin Wijaya",
+  "main": "helloworld.js",
+  "scripts": {
+    "start": "node helloworld.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
